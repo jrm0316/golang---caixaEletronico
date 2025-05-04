@@ -13,8 +13,6 @@ o exemplo fornecido. Não esqueça de imprimir o fim de linha após cada linha, 
 programa apresentará a mensagem: “Presentation Error”.
 
 576
-
-576
 5 nota(s) de R$ 100,00
 1 nota(s) de R$ 50,00
 1 nota(s) de R$ 20,00
@@ -24,8 +22,6 @@ programa apresentará a mensagem: “Presentation Error”.
 1 nota(s) de R$ 1,00
 
 11257
-
-11257
 112 nota(s) de R$ 100,00
 1 nota(s) de R$ 50,00
 0 nota(s) de R$ 20,00
@@ -33,8 +29,6 @@ programa apresentará a mensagem: “Presentation Error”.
 1 nota(s) de R$ 5,00
 1 nota(s) de R$ 2,00
 0 nota(s) de R$ 1,00
-
-503
 
 503
 5 nota(s) de R$ 100,00
